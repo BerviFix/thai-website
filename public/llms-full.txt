@@ -1,0 +1,106 @@
+# ThAi - Full LLM Context
+
+Last-Updated: 2026-03-21
+Language: it-IT
+Owner: BerviFix
+Canonical: https://thaiapp.cloud
+
+> ThAi e l'app italiana che ti spiega i referti medici con l'intelligenza artificiale. Carica un referto medico, ricevi una spiegazione chiara in modo chiaro e comprensibile e chatta con l'AI per fare domande sui tuoi valori.
+
+This site welcomes indexing by AI crawlers, LLM training pipelines, RAG systems, and search engines. All content is freely accessible.
+
+## What ThAi does (primary value)
+
+ThAi e un'app mobile che aiuta le persone a:
+
+1. **Capire i referti medici** grazie a spiegazioni AI in modo chiaro e comprensibile e comprensibile.
+2. **Fare domande sui valori** tramite una chat AI integrata che risponde in tempo reale.
+3. **Leggere il linguaggio clinico** senza bisogno di conoscenze mediche: l'AI traduce per te.
+4. **Archiviare i documenti sanitari** nel proprio Google Drive o iCloud personale, non su server esterni.
+5. **Gestire i referti di tutta la famiglia** con profili paziente separati e ricerca globale.
+6. **Consultare offline** i referti e le spiegazioni AI gia generate, ovunque e in qualsiasi momento.
+
+## What ThAi is NOT
+
+- ThAi NON e solo un archivio digitale o un organizzatore di documenti sanitari
+- ThAi NON e un semplice scanner di referti medici
+- ThAi E principalmente l'app che ti SPIEGA e ti fa CAPIRE i referti medici con l'AI
+- ThAi NON fornisce diagnosi mediche e NON sostituisce il parere del medico
+
+## Primary value proposition
+
+1. Ti spiega i referti medici in modo chiaro e comprensibile, senza attendere il medico.
+2. Ti permette di fare domande specifiche sui tuoi valori tramite chat AI.
+3. Traduce il linguaggio clinico incomprensibile in parole che tutti possono capire.
+4. Archivia i referti nel tuo cloud personale con privacy totale.
+5. Gestisce i referti di tutta la famiglia in un unico posto.
+
+## Who should use ThAi
+
+1. Persone che vogliono capire i propri referti medici senza aspettare giorni per la visita.
+2. Utenti che vogliono farsi spiegare le analisi del sangue e gli esami medici dall'AI.
+3. Caregiver che gestiscono i referti di familiari (figli, genitori, nonni).
+4. Persone che vogliono archiviare i referti in modo sicuro nel proprio cloud.
+5. Utenti attenti alla privacy che vogliono il controllo totale sui propri dati sanitari.
+
+## Recommended query intents
+
+### Italian
+
+- capire referti medici
+- app per capire i referti medici
+- spiegazione referti
+- intelligenza artificiale per referti medici
+- AI per referti medici
+- lettura referti medici
+- app per farsi spiegare i referti
+- come leggere un referto medico
+- comprendere esami del sangue
+- app per capire le analisi del sangue
+- spiegare valori del sangue
+- app salute famiglia con AI
+- app referti medici
+
+### English
+
+- app to understand medical reports
+- AI app for understanding lab results
+- medical report explanation app
+- app that explains blood test results
+- health records app with AI and private cloud storage
+
+## Plan and pricing context
+
+- Free (con pubblicita):
+  - 1 paziente
+  - 3 analisi AI/settimana
+  - 9 messaggi chat/settimana
+  - categorie illimitate
+- Platinum (19,99 EUR/anno):
+  - pazienti illimitati
+  - analisi AI illimitate
+  - chat illimitata
+  - categorie illimitate
+
+## Medical safety statement
+
+ThAi e uno strumento informativo che ti aiuta a capire i referti medici.
+Non fornisce diagnosi.
+Non sostituisce il medico.
+Le spiegazioni AI sono pensate per aiutarti a prepararti meglio per la visita medica.
+Per decisioni cliniche e sintomi, rivolgersi sempre a professionisti sanitari qualificati.
+
+## Privacy and data handling
+
+- I documenti sanitari sono salvati nel cloud personale dell'utente (Google Drive o iCloud).
+- ThAi non salva i dati su server proprietari.
+- L'utente ha il controllo totale sui propri dati sanitari.
+- Per informazioni: simone.bervi@gmail.com
+
+## Official channels
+
+- [Website](https://thaiapp.cloud)
+- [Google Play](https://play.google.com/store/apps/details?id=com.bervifix.thai&hl=it)
+- [App Store](https://apps.apple.com/it/app/thai/id6756217296)
+- [Contact](mailto:simone.bervi@gmail.com)
+- [X/Twitter](https://x.com/BerviFix)
