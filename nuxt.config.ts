@@ -14,6 +14,7 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxtjs/sitemap',
     '@vercel/analytics/nuxt',
+    '@vercel/speed-insights/nuxt',
   ],
 
   site: {
