@@ -13,6 +13,7 @@ export default defineNuxtConfig({
     '@nuxtjs/google-fonts',
     '@nuxt/image',
     '@nuxtjs/sitemap',
+    '@vercel/analytics/nuxt',
   ],
 
   site: {
