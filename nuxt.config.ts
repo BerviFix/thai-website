@@ -19,7 +19,7 @@ export default defineNuxtConfig({
 
   site: {
     url: 'https://thaiapp.cloud',
-    name: 'ThAi Referti Medici',
+    name: 'ThAi',
   },
 
   sitemap: {
@@ -56,7 +56,7 @@ export default defineNuxtConfig({
         { property: 'og:image:width', content: '512' },
         { property: 'og:image:height', content: '512' },
         { property: 'og:locale', content: 'it_IT' },
-        { property: 'og:site_name', content: 'ThAi Referti Medici' },
+        { property: 'og:site_name', content: 'ThAi' },
         // Twitter
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:url', content: 'https://thaiapp.cloud/' },
@@ -152,8 +152,8 @@ export default defineNuxtConfig({
           children: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebSite",
-            "name": "ThAi Referti Medici",
-            "alternateName": "ThAi",
+            "name": "ThAi",
+            "alternateName": "ThAi Referti Medici",
             "url": "https://thaiapp.cloud/",
             "description": "L'app con intelligenza artificiale che ti spiega i referti medici. Fai domande sui tuoi valori e gestisci la salute di tutta la famiglia.",
             "inLanguage": "it-IT",
@@ -178,7 +178,7 @@ export default defineNuxtConfig({
             "inLanguage": "it-IT",
             "isPartOf": {
               "@type": "WebSite",
-              "name": "ThAi Referti Medici",
+              "name": "ThAi",
               "url": "https://thaiapp.cloud/"
             },
             "about": {
